@@ -1,6 +1,6 @@
 # Static Webpage Templete - 5
 
-## A static templete webpage of a service based company
+## A static templete webpage of a crypto based company
 
 - This webpage was constructed by using only HTML and CSS as a markup and styling language respectively.
 - Webpage consists of two sections such as navigation section and main (content) section.
@@ -21,15 +21,15 @@
 
 ## Hosted webpage link
 
-[Static Webpage Templete - 4](https://static-webpage-templete-04.netlify.app/)
+[Static Webpage Templete - 5](https://static-webpage-templete-05.netlify.app/)
 
 ## My new learnings
 
-> png image (resizing and positioning)
+> background image positioning
 
 > css buttons
 
-> cursor various options
+> Navigation bar alignment
 
 ## My info:
 
