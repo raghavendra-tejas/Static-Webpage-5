@@ -1,0 +1,34 @@
+.main-center {
+  background-image: url("../images/bg.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 109vh;
+  text-align: center;
+}
+
+.main-center h1 {
+  color: #ffffff;
+  font-family: "Montserrat";
+  font-size: 80px;
+  padding-top: 110px;
+}
+
+.main-center p {
+  color: #ffffff;
+  font-family: "Poppins";
+  font-size: 30px;
+}
+
+.main-center button {
+  background-color: #ba0cc5;
+  font-family: "Poppins";
+  font-size: 25px;
+  border-radius: 5px;
+  cursor: pointer;
+  height: 50px;
+  width: 300px;
+  border: none;
+  color: #ffffff;
+  margin-top: 90px;
+}

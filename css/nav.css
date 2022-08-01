@@ -1,0 +1,48 @@
+.navbar-container {
+  display: flex;
+  flex-direction: row;
+  height: 75px;
+  align-items: center;
+  background-color: #000000;
+}
+
+.nav-left img {
+  width: 80px;
+  margin-left: 50px;
+}
+
+.nav-left-border-right {
+  border-right: 2px solid #ffffff;
+  height: 40px;
+  margin: 0 50px 0 75px;
+}
+
+.nav-center {
+  flex: 1;
+}
+
+
+.nav-center .nav-center-list-item {
+  display: inline;
+  color: #ffffff;
+  margin-right: 50px;
+  font-family: "Poppins";
+  font-size: x-small;
+  cursor: pointer;
+}
+
+.nav-center .nav-center-list-item i {
+  margin-left: 5px;
+}
+
+.nav-right button {
+  margin-right: 75px;
+  background-color: #ba0cc5;
+  font-family: "Poppins";
+  font-size: x-small;
+  color: #ffffff;
+  height: 30px;
+  width: 130px;
+  border-radius: 5px;
+  cursor: pointer;
+}
